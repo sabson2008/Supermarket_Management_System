@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SupermarketManagement",
+    "\\SupermarketManagement\\WebApp",
+    "\\SupermarketManagement\\WebApp\\Areas",
+    "\\SupermarketManagement\\WebApp\\Areas\\Identity",
+    "\\SupermarketManagement\\WebApp\\Areas\\Identity\\Data",
+    "\\SupermarketManagement\\WebApp\\bin",
+    "\\SupermarketManagement\\WebApp\\bin\\Release",
+    "\\SupermarketManagement\\WebApp\\bin\\Release\\net5.0",
+    "\\SupermarketManagement\\WebApp\\Pages"
+  ],
+  "SelectedNode": "\\SupermarketManagement\\SupermarketManagement.sln",
+  "PreviewInSolutionExplorer": false
+}
